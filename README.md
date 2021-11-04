@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Revenroth
-- 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently HTML & CSS
+- 👀 Graphic & Web designer
+- 🌱 I’m currently learning HTML & CSS
 
 - 📫 How to reach me: rastkondesign@gmail.com
 
