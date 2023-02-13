@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Revenroth
 - 👀 Graphic & Web designer
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 HTML & CSS
 
 - 📫 How to reach me: rastkondesign@gmail.com
 
